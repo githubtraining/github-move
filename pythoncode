@@ -1,0 +1,4 @@
+frase = input("escreve alguma coisa ai: ", )
+
+print(frase)
+#É so isso mesmo!!
