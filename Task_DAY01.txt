@@ -1,0 +1,21 @@
+1. Create Resource group with powershell.? -Task Completed - workitem #45
+2. Create web-app in powershell.? -task completed -WI 46
+3. Create Virtual-network.? -task completed -WI47
+4. Check wheather resource group delete or not after puting the lock into it. ?- Task done -WI50
+5. Connect Az module. ? - Task Completed
+
+Linux Task - Day01
+1. Practice CD command -Task Completed-WI 58
+2. Practice ls command -Task Completed -WI 59
+3. Practice Date & CAL command - Task Completed -WI 60
+4. Practice Rm command 
+5. Practice mkdir command
+6. Practice move,Copy & rename command   
+
+Day-02
+Practice of day-01
+1. created resource group
+2. created lock in resource group
+3. created web -app 
+4. creatd lock in web-app
+5. removed lock from resourcegroup and webapp 
